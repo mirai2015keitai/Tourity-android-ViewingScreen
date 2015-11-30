@@ -41,6 +41,7 @@ public class MainActivity extends Activity {
 
     }
 
+    //test
     public class SurfaceHolderCbk implements SurfaceHolder.Callback {
         Camera camera;
 
